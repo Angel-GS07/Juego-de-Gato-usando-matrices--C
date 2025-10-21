@@ -15,7 +15,7 @@ main(){
 	int r;
 	
 	system("color B");
-	printf("Gato ^•w•^ \n");
+	printf("Gato ^â€¢wâ€¢^ \n");
 	
 	printf("Introduzca el nombre del jugador 1: \n");
 	gets(p1);
